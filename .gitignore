@@ -1,3 +1,5 @@
 simple-agent/.env
 advanced-agent/.env
+simple-agent/.venv
+advanced-agent/.venv
 .idea
